@@ -1,6 +1,6 @@
 # 🦅 ALBATROS
 ### Oyunlaştırılmış Verimlilik ve Alışkanlık Takip Sistemi
-Albatros, günlük verimliliğinizi RPG benzeri bir deneyime dönüştüren modern bir masaüstü uygulamasıdır. Bu depo, Albatros'un resmi Windows sürümlerini barındırır.
+Albatros, günlük verimliliğinizi RPG benzeri bir deneyime dönüştüren modern bir masaüstü uygulamasıdır.
 ---
 
 ## ✨ Özellikler
