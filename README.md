@@ -12,7 +12,8 @@ Albatros, günlük verimliliğinizi RPG benzeri bir deneyime dönüştüren mode
 - **🔐 Güvenli**: Kullanıcı verileri yerel olarak güvenli bir şekilde saklanır.
 
 ## 📥 Kurulum
-1.  **Çalıştır**: Uygulamayı başlatmak için `Albatros.exe` dosyasına çift tıklayın.
+1.  **https://drive.google.com/file/d/15D_W5PnRWMgDFSciJSWjqxHJBtO36195/view?usp=drive_link** linki ile uygulamayı indirin.
+2.  **Çalıştır**: Uygulamayı başlatmak için `Albatros.exe` dosyasına çift tıklayın.
     *   *Not: Kurulum gerektirmez. Uygulama taşınabilirdir (portable).*
     *   *İlk çalıştırmada, bulunduğu klasörde kendi veritabanını ve ayar dosyasını oluşturacaktır.*
 
